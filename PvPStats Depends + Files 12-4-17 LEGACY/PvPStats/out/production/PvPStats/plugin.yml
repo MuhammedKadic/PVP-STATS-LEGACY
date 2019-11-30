@@ -1,0 +1,8 @@
+main: me.kerb.pvpstats.PvPStats
+version: 1.0-SNAPSHOT
+author: Kerbyy
+name: PvPStats
+commands:
+    stats:
+       description: This plugin uses a simple api to check player stats VIA MySQL
+

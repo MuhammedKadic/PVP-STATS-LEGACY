@@ -1,0 +1,7 @@
+mysql:
+ MySQL_Host: localhost
+ MySQL_Port: 3306
+ MySQL_User: root
+ MySQL_Database: stats
+ MySQL_Password: ""
+
